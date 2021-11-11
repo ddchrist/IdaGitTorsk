@@ -1,0 +1,2 @@
+# IdaGitTorsk
+Vi elsker fiskesuppe
