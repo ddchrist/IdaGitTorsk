@@ -2,4 +2,4 @@ muahaha
 
 jeg ændrer denne fil
 
-Denne teskst er skrevet af Toke
+Denne teskst er skrevet af Toke; Er du sikker? 
