@@ -1,1 +1,3 @@
 Hvad skal vi lave her i denne øvelse
+
+Vi skal lave commits
